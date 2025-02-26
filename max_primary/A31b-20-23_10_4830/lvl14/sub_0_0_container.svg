@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="13000.5625 -3266.666667 99.43749999999909 66.66666699999979" go:dataArea="13000.5625 -3266.666667 99.43749999999909 66.66666699999979" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile1_16.png" preserveAspectRatio="none" x="13001.220703" y="-3232.177734" width="2.197266" height="2.197266"/>
+<image xlink:href="tile1_15.png" preserveAspectRatio="none" x="13001.220703" y="-3234.375" width="2.197266" height="2.197266"/>
+<image xlink:href="tile3_16.png" preserveAspectRatio="none" x="13005.615234" y="-3232.177734" width="2.197266" height="2.197266"/>
+<image xlink:href="tile3_15.png" preserveAspectRatio="none" x="13005.615234" y="-3234.375" width="2.197266" height="2.197266"/>
+<image xlink:href="tile4_15.png" preserveAspectRatio="none" x="13007.8125" y="-3234.375" width="2.197266" height="2.197266"/>
+<image xlink:href="tile14_26.png" preserveAspectRatio="none" x="13029.785156" y="-3210.205078" width="2.197266" height="2.197266"/>
+<image xlink:href="tile14_25.png" preserveAspectRatio="none" x="13029.785156" y="-3212.402344" width="2.197266" height="2.197266"/>
+<image xlink:href="tile15_26.png" preserveAspectRatio="none" x="13031.982422" y="-3210.205078" width="2.197266" height="2.197266"/>
+<image xlink:href="tile15_25.png" preserveAspectRatio="none" x="13031.982422" y="-3212.402344" width="2.197266" height="2.197266"/>
+<image xlink:href="tile15_24.png" preserveAspectRatio="none" x="13031.982422" y="-3214.599609" width="2.197266" height="2.197266"/>
+</g>
+</svg>

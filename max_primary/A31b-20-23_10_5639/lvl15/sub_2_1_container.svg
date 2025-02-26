@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="13900.0 -3800.0 96.37680600000067 66.66666699999979" go:dataArea="13900.0 -3800.0 96.37680600000067 66.66666699999979" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile33_41.png" preserveAspectRatio="none" x="13936.157227" y="-3755.126953" width="1.098633" height="1.098633"/>
+<image xlink:href="tile33_29.png" preserveAspectRatio="none" x="13936.157227" y="-3768.310547" width="1.098633" height="1.098633"/>
+<image xlink:href="tile34_41.png" preserveAspectRatio="none" x="13937.255859" y="-3755.126953" width="1.098633" height="1.098633"/>
+<image xlink:href="tile34_40.png" preserveAspectRatio="none" x="13937.255859" y="-3756.225586" width="1.098633" height="1.098633"/>
+<image xlink:href="tile34_29.png" preserveAspectRatio="none" x="13937.255859" y="-3768.310547" width="1.098633" height="1.098633"/>
+<image xlink:href="tile36_37.png" preserveAspectRatio="none" x="13939.453125" y="-3759.521484" width="1.098633" height="1.098633"/>
+<image xlink:href="tile37_37.png" preserveAspectRatio="none" x="13940.551758" y="-3759.521484" width="1.098633" height="1.098633"/>
+<image xlink:href="tile38_36.png" preserveAspectRatio="none" x="13941.650391" y="-3760.620117" width="1.098633" height="1.098633"/>
+<image xlink:href="tile38_35.png" preserveAspectRatio="none" x="13941.650391" y="-3761.71875" width="1.098633" height="1.098633"/>
+<image xlink:href="tile38_29.png" preserveAspectRatio="none" x="13941.650391" y="-3768.310547" width="1.098633" height="1.098633"/>
+<image xlink:href="tile39_36.png" preserveAspectRatio="none" x="13942.749023" y="-3760.620117" width="1.098633" height="1.098633"/>
+<image xlink:href="tile39_35.png" preserveAspectRatio="none" x="13942.749023" y="-3761.71875" width="1.098633" height="1.098633"/>
+<image xlink:href="tile39_29.png" preserveAspectRatio="none" x="13942.749023" y="-3768.310547" width="1.098633" height="1.098633"/>
+<image xlink:href="tile41_34.png" preserveAspectRatio="none" x="13944.946289" y="-3762.817383" width="1.098633" height="1.098633"/>
+<image xlink:href="tile41_30.png" preserveAspectRatio="none" x="13944.946289" y="-3767.211914" width="1.098633" height="1.098633"/>
+<image xlink:href="tile41_29.png" preserveAspectRatio="none" x="13944.946289" y="-3768.310547" width="1.098633" height="1.098633"/>
+<image xlink:href="tile42_34.png" preserveAspectRatio="none" x="13946.044922" y="-3762.817383" width="1.098633" height="1.098633"/>
+<image xlink:href="tile42_33.png" preserveAspectRatio="none" x="13946.044922" y="-3763.916016" width="1.098633" height="1.098633"/>
+<image xlink:href="tile42_32.png" preserveAspectRatio="none" x="13946.044922" y="-3765.014648" width="1.098633" height="1.098633"/>
+<image xlink:href="tile42_31.png" preserveAspectRatio="none" x="13946.044922" y="-3766.113281" width="1.098633" height="1.098633"/>
+<image xlink:href="tile42_30.png" preserveAspectRatio="none" x="13946.044922" y="-3767.211914" width="1.098633" height="1.098633"/>
+<image xlink:href="tile42_29.png" preserveAspectRatio="none" x="13946.044922" y="-3768.310547" width="1.098633" height="1.098633"/>
+<image xlink:href="tile43_31.png" preserveAspectRatio="none" x="13947.143555" y="-3766.113281" width="1.098633" height="1.098633"/>
+<image xlink:href="tile43_30.png" preserveAspectRatio="none" x="13947.143555" y="-3767.211914" width="1.098633" height="1.098633"/>
+<image xlink:href="tile43_29.png" preserveAspectRatio="none" x="13947.143555" y="-3768.310547" width="1.098633" height="1.098633"/>
+</g>
+</svg>

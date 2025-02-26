@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="14000.0 -3600.0 85.11330069999872 60.0416586999998" go:dataArea="14000.0 -3600.0 85.11330069999872 60.0416586999998" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile51_25.png" preserveAspectRatio="none" x="14055.908203" y="-3572.753906" width="1.098633" height="1.098633"/>
+<image xlink:href="tile51_24.png" preserveAspectRatio="none" x="14055.908203" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile51_23.png" preserveAspectRatio="none" x="14055.908203" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile52_25.png" preserveAspectRatio="none" x="14057.006836" y="-3572.753906" width="1.098633" height="1.098633"/>
+<image xlink:href="tile52_24.png" preserveAspectRatio="none" x="14057.006836" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile52_23.png" preserveAspectRatio="none" x="14057.006836" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile53_31.png" preserveAspectRatio="none" x="14058.105469" y="-3566.162109" width="1.098633" height="1.098633"/>
+<image xlink:href="tile53_30.png" preserveAspectRatio="none" x="14058.105469" y="-3567.260742" width="1.098633" height="1.098633"/>
+<image xlink:href="tile53_29.png" preserveAspectRatio="none" x="14058.105469" y="-3568.359375" width="1.098633" height="1.098633"/>
+<image xlink:href="tile53_25.png" preserveAspectRatio="none" x="14058.105469" y="-3572.753906" width="1.098633" height="1.098633"/>
+<image xlink:href="tile53_24.png" preserveAspectRatio="none" x="14058.105469" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile53_23.png" preserveAspectRatio="none" x="14058.105469" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile54_31.png" preserveAspectRatio="none" x="14059.204102" y="-3566.162109" width="1.098633" height="1.098633"/>
+<image xlink:href="tile54_30.png" preserveAspectRatio="none" x="14059.204102" y="-3567.260742" width="1.098633" height="1.098633"/>
+<image xlink:href="tile54_29.png" preserveAspectRatio="none" x="14059.204102" y="-3568.359375" width="1.098633" height="1.098633"/>
+<image xlink:href="tile54_28.png" preserveAspectRatio="none" x="14059.204102" y="-3569.458008" width="1.098633" height="1.098633"/>
+<image xlink:href="tile54_24.png" preserveAspectRatio="none" x="14059.204102" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile54_23.png" preserveAspectRatio="none" x="14059.204102" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile55_31.png" preserveAspectRatio="none" x="14060.302734" y="-3566.162109" width="1.098633" height="1.098633"/>
+<image xlink:href="tile55_30.png" preserveAspectRatio="none" x="14060.302734" y="-3567.260742" width="1.098633" height="1.098633"/>
+<image xlink:href="tile55_29.png" preserveAspectRatio="none" x="14060.302734" y="-3568.359375" width="1.098633" height="1.098633"/>
+<image xlink:href="tile55_28.png" preserveAspectRatio="none" x="14060.302734" y="-3569.458008" width="1.098633" height="1.098633"/>
+<image xlink:href="tile55_27.png" preserveAspectRatio="none" x="14060.302734" y="-3570.556641" width="1.098633" height="1.098633"/>
+<image xlink:href="tile55_24.png" preserveAspectRatio="none" x="14060.302734" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile55_23.png" preserveAspectRatio="none" x="14060.302734" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_30.png" preserveAspectRatio="none" x="14061.401367" y="-3567.260742" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_29.png" preserveAspectRatio="none" x="14061.401367" y="-3568.359375" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_28.png" preserveAspectRatio="none" x="14061.401367" y="-3569.458008" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_27.png" preserveAspectRatio="none" x="14061.401367" y="-3570.556641" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_26.png" preserveAspectRatio="none" x="14061.401367" y="-3571.655273" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_25.png" preserveAspectRatio="none" x="14061.401367" y="-3572.753906" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_24.png" preserveAspectRatio="none" x="14061.401367" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile56_23.png" preserveAspectRatio="none" x="14061.401367" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile57_29.png" preserveAspectRatio="none" x="14062.5" y="-3568.359375" width="1.098633" height="1.098633"/>
+<image xlink:href="tile57_28.png" preserveAspectRatio="none" x="14062.5" y="-3569.458008" width="1.098633" height="1.098633"/>
+<image xlink:href="tile57_27.png" preserveAspectRatio="none" x="14062.5" y="-3570.556641" width="1.098633" height="1.098633"/>
+<image xlink:href="tile57_26.png" preserveAspectRatio="none" x="14062.5" y="-3571.655273" width="1.098633" height="1.098633"/>
+<image xlink:href="tile57_25.png" preserveAspectRatio="none" x="14062.5" y="-3572.753906" width="1.098633" height="1.098633"/>
+<image xlink:href="tile57_24.png" preserveAspectRatio="none" x="14062.5" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile57_23.png" preserveAspectRatio="none" x="14062.5" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile58_26.png" preserveAspectRatio="none" x="14063.598633" y="-3571.655273" width="1.098633" height="1.098633"/>
+<image xlink:href="tile58_25.png" preserveAspectRatio="none" x="14063.598633" y="-3572.753906" width="1.098633" height="1.098633"/>
+<image xlink:href="tile58_24.png" preserveAspectRatio="none" x="14063.598633" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile58_23.png" preserveAspectRatio="none" x="14063.598633" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile59_23.png" preserveAspectRatio="none" x="14064.697266" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile60_23.png" preserveAspectRatio="none" x="14065.795898" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile61_24.png" preserveAspectRatio="none" x="14066.894531" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile61_23.png" preserveAspectRatio="none" x="14066.894531" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile62_24.png" preserveAspectRatio="none" x="14067.993164" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile62_23.png" preserveAspectRatio="none" x="14067.993164" y="-3574.951172" width="1.098633" height="1.098633"/>
+<image xlink:href="tile63_24.png" preserveAspectRatio="none" x="14069.091797" y="-3573.852539" width="1.098633" height="1.098633"/>
+<image xlink:href="tile63_23.png" preserveAspectRatio="none" x="14069.091797" y="-3574.951172" width="1.098633" height="1.098633"/>
+</g>
+</svg>

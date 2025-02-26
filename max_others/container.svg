@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:go="http://purl.org/svgmap/profile" xmlns:xlink="http://www.w3.org/1999/xlink" go:dataArea="12794.40625 -4025.345042 1392.1098836 1365.9742086" viewBox="12794.40625 -4025.345042 1392.1098836 1365.9742086">
+<metadata>
+<rdf:RDF xmlns:crs="http://www.ogc.org/crs" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+<crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)"/>
+</rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)"/>
+<animation height="10.400063000000046" width="4.7313162999980705" x="14174.300740300001" xlink:href="A31b-20-23_20_6041/rootImgMap.svg" y="-4025.345042"/>
+<animation height="21.291798399999152" width="8.900055100000827" x="14109.0705638" xlink:href="A31b-20-23_20_5941/rootImgMap.svg" y="-3978.3989796999995"/>
+<animation height="53.64569659999961" width="86.5161336000001" x="14100.0" xlink:href="A31b-20-23_20_5841/rootImgMap.svg" y="-3929.2898845000004"/>
+<animation height="0.5250080999999227" width="4.385186799998337" x="14095.614813200002" xlink:href="A31b-20-23_20_5840/rootImgMap.svg" y="-3924.3322155"/>
+<animation height="25.708019599999716" width="35.15745380000044" x="14110.8792864" xlink:href="A31b-20-23_20_5741/rootImgMap.svg" y="-3864.2901253"/>
+<animation height="49.24967169999991" width="14.86904830000094" x="14083.322199299999" xlink:href="A31b-20-23_20_5740/rootImgMap.svg" y="-3859.3323069"/>
+<animation height="52.332963800000016" width="37.03155439999864" x="13930.3762157" xlink:href="A31b-20-23_20_5739/rootImgMap.svg" y="-3852.3329638"/>
+<animation height="6.7166667000001326" width="19.030423700001847" x="13829.3445763" xlink:href="A31b-20-23_20_5738/rootImgMap.svg" y="-3806.7166667"/>
+<animation height="2.816643600000134" width="2.9625750000031985" x="14080.1595558" xlink:href="A31b-20-23_20_5640/rootImgMap.svg" y="-3798.2619142"/>
+<animation height="64.86678669999992" width="62.232625700000426" x="13900.0" xlink:href="A31b-20-23_20_5639/rootImgMap.svg" y="-3800.0"/>
+<animation height="61.483450000000175" width="68.28041089999897" x="13831.719589100001" xlink:href="A31b-20-23_20_5638/rootImgMap.svg" y="-3800.0"/>
+<animation height="43.95813529999987" width="47.788887600001544" x="14000.0" xlink:href="A31b-20-23_20_5540/rootImgMap.svg" y="-3710.6248023"/>
+<animation height="57.49990880000041" width="100.0" x="13900.0" xlink:href="A31b-20-23_20_5539/rootImgMap.svg" y="-3724.1665758000004"/>
+<animation height="63.71656600000006" width="100.0" x="13800.0" xlink:href="A31b-20-23_20_5538/rootImgMap.svg" y="-3730.383233"/>
+<animation height="37.48331210000015" width="100.0" x="13700.0" xlink:href="A31b-20-23_20_5537/rootImgMap.svg" y="-3710.4207172"/>
+<animation height="17.63191050000023" width="11.278740599998855" x="13688.721259400001" xlink:href="A31b-20-23_20_5536/rootImgMap.svg" y="-3684.2985775"/>
+<animation height="66.66666699999996" width="52.68875010000011" x="14000.0" xlink:href="A31b-20-23_20_5440/rootImgMap.svg" y="-3666.666667"/>
+<animation height="66.66666699999996" width="100.0" x="13900.0" xlink:href="A31b-20-23_20_5439/rootImgMap.svg" y="-3666.666667"/>
+<animation height="66.66666699999996" width="100.0" x="13800.0" xlink:href="A31b-20-23_20_5438/rootImgMap.svg" y="-3666.666667"/>
+<animation height="14.43750559999944" width="14.062296700001752" x="13785.937703299998" xlink:href="A31b-20-23_20_5437/rootImgMap.svg" y="-3626.4582468999997"/>
+<animation height="59.47090580000031" width="56.81861370000115" x="13635.2377284" xlink:href="A31b-20-23_20_5436/rootImgMap.svg" y="-3666.666667"/>
+<animation height="60.04165869999997" width="85.11330069999894" x="14000.0" xlink:href="A31b-20-23_20_5340/rootImgMap.svg" y="-3600.0"/>
+<animation height="65.76247980000016" width="100.0" x="13900.0" xlink:href="A31b-20-23_20_5339/rootImgMap.svg" y="-3600.0"/>
+<animation height="24.823458200000005" width="19.987243800000215" x="13880.0127562" xlink:href="A31b-20-23_20_5338/rootImgMap.svg" y="-3600.0"/>
+<animation height="20.20833360000006" width="22.9562719000005" x="13700.0" xlink:href="A31b-20-23_20_5337/rootImgMap.svg" y="-3553.541666"/>
+<animation height="28.16108340000028" width="10.27772879999975" x="13689.7222712" xlink:href="A31b-20-23_20_5336/rootImgMap.svg" y="-3575.577752"/>
+<animation height="22.124839000000065" width="38.0001667000015" x="14002.281246199998" xlink:href="A31b-20-23_20_5240/rootImgMap.svg" y="-3526.8958048000004"/>
+<animation height="38.94154609999987" width="91.14988380000068" x="13908.812612400001" xlink:href="A31b-20-23_20_5239/rootImgMap.svg" y="-3529.4792328"/>
+<animation height="37.37499930000058" width="46.46875" x="13700.0" xlink:href="A31b-20-23_20_5237/rootImgMap.svg" y="-3533.3333326"/>
+<animation height="57.37082509999982" width="96.40630000000056" x="13603.5937" xlink:href="A31b-20-23_20_5236/rootImgMap.svg" y="-3524.0374918999996"/>
+<animation height="34.062533299999814" width="30.8062000000009" x="13537.343799999999" xlink:href="A31b-20-23_20_5235/rootImgMap.svg" y="-3500.7291999999998"/>
+<animation height="66.66666699999996" width="90.45624999999927" x="13600.33125" xlink:href="A31b-20-23_20_5136/rootImgMap.svg" y="-3466.666667"/>
+<animation height="66.58750029999965" width="88.95000800000162" x="13511.037492" xlink:href="A31b-20-23_20_5135/rootImgMap.svg" y="-3466.666667"/>
+<animation height="7.979166699999496" width="13.01875000000291" x="13429.550000000001" xlink:href="A31b-20-23_20_5134/rootImgMap.svg" y="-3426.5416666999995"/>
+<animation height="17.266633300000194" width="13.737500000001091" x="13363.512499999999" xlink:href="A31b-20-23_20_5133/rootImgMap.svg" y="-3428.6083333"/>
+<animation height="26.762500000000273" width="20.9375" x="13600.0" xlink:href="A31b-20-23_20_5036/rootImgMap.svg" y="-3400.0"/>
+<animation height="25.924999999998818" width="14.512500000000728" x="13585.4875" xlink:href="A31b-20-23_20_5035/rootImgMap.svg" y="-3399.8291667"/>
+<animation height="16.502939699999843" width="13.374999999998181" x="13400.25" xlink:href="A31b-20-23_20_5034/rootImgMap.svg" y="-3358.5029397"/>
+<animation height="32.81250040000032" width="76.92215120000037" x="13320.275000000001" xlink:href="A31b-20-23_20_5033/rootImgMap.svg" y="-3370.6791670000002"/>
+<animation height="31.620899999999892" width="8.762500000000728" x="13100.0" xlink:href="A31b-20-23_20_5031/rootImgMap.svg" y="-3393.1375000000003"/>
+<animation height="61.8791669000002" width="92.67499999999927" x="13007.325" xlink:href="A31b-20-23_20_5030/rootImgMap.svg" y="-3395.2125"/>
+<animation height="0.5541669999997794" width="1.6062499999989086" x="13294.968750000002" xlink:href="A31b-20-23_20_4932/rootImgMap.svg" y="-3280.1541669999997"/>
+<animation height="32.154166299999815" width="48.899999999999636" x="13035.550000000001" xlink:href="A31b-20-23_20_4930/rootImgMap.svg" y="-3333.3333333"/>
+<animation height="18.83333330000005" width="6.000000000001819" x="13049.78125" xlink:href="A31b-20-23_20_4730/rootImgMap.svg" y="-3152.875"/>
+<animation height="1.6000000000008185" width="3.5437500000007276" x="12794.40625" xlink:href="A31b-20-23_20_3927/rootImgMap.svg" y="-2660.9708334000006"/>
+</svg>

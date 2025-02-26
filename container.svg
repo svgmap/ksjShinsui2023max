@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:go="http://purl.org/svgmap/profile" xmlns:xlink="http://www.w3.org/1999/xlink" go:dataArea="12767.15625 -3533.3333339 1132.84375 915.1333339000003" viewBox="12767.15625 -3533.3333339 1132.84375 915.1333339000003" data-controller="legend.html#exec=appearOnLayerLoad">
+<metadata>
+<rdf:RDF xmlns:crs="http://www.ogc.org/crs" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+<crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)"/>
+</rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)"/>
+ <animation xlink:href="max_primary/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="visible" id="primarySubLayer" />
+ <animation xlink:href="max_others/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" id="othersSubLayer" />
+</svg>

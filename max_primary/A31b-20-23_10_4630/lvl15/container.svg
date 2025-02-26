@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="13027.75 -3133.3333333 67.59375000000034 12.854166600000028" go:dataArea="13027.75 -3133.3333333 67.59375000000034 12.854166600000028" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<animation xlink:href="sub_0_0_container.svg" x="13027.587891" y="-3137.695312" width="17.578125" height="17.578125"/>
+<animation xlink:href="sub_3_0_container.svg" x="13080.322266" y="-3137.695312" width="17.578125" height="17.578125"/>
+<animation xlink:href="sub_2_0_container.svg" x="13062.744141" y="-3137.695312" width="17.578125" height="17.578125"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="13100.0 -3400.0 96.83750000000089 60.17587750000004" go:dataArea="13100.0 -3400.0 96.83750000000089 60.17587750000004" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile64_39.png" preserveAspectRatio="none" x="13169.311523" y="-3357.421875" width="1.098633" height="1.098633"/>
+<image xlink:href="tile65_39.png" preserveAspectRatio="none" x="13170.410156" y="-3357.421875" width="1.098633" height="1.098633"/>
+<image xlink:href="tile66_39.png" preserveAspectRatio="none" x="13171.508789" y="-3357.421875" width="1.098633" height="1.098633"/>
+<image xlink:href="tile67_39.png" preserveAspectRatio="none" x="13172.607422" y="-3357.421875" width="1.098633" height="1.098633"/>
+<image xlink:href="tile67_38.png" preserveAspectRatio="none" x="13172.607422" y="-3358.520508" width="1.098633" height="1.098633"/>
+<image xlink:href="tile68_39.png" preserveAspectRatio="none" x="13173.706055" y="-3357.421875" width="1.098633" height="1.098633"/>
+</g>
+</svg>

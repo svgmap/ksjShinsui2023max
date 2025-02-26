@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="13830.032136099999 -3800.0 69.96786390000125 66.66666699999979" go:dataArea="13830.032136099999 -3800.0 69.96786390000125 66.66666699999979" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile32_14.png" preserveAspectRatio="none" x="13899.902344" y="-3770.507812" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_13.png" preserveAspectRatio="none" x="13899.902344" y="-3772.705078" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_12.png" preserveAspectRatio="none" x="13899.902344" y="-3774.902344" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_11.png" preserveAspectRatio="none" x="13899.902344" y="-3777.099609" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_10.png" preserveAspectRatio="none" x="13899.902344" y="-3779.296875" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_9.png" preserveAspectRatio="none" x="13899.902344" y="-3781.494141" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_8.png" preserveAspectRatio="none" x="13899.902344" y="-3783.691406" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_7.png" preserveAspectRatio="none" x="13899.902344" y="-3785.888672" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_6.png" preserveAspectRatio="none" x="13899.902344" y="-3788.085938" width="2.197266" height="2.197266"/>
+<image xlink:href="tile32_5.png" preserveAspectRatio="none" x="13899.902344" y="-3790.283203" width="2.197266" height="2.197266"/>
+</g>
+</svg>

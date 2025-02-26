@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="14001.388924099998 -4000.0 98.51855650000232 66.66666699999979" go:dataArea="14001.388924099998 -4000.0 98.51855650000232 66.66666699999979" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile64_27.png" preserveAspectRatio="none" x="14071.289062" y="-3970.458984" width="1.098633" height="1.098633"/>
+<image xlink:href="tile64_26.png" preserveAspectRatio="none" x="14071.289062" y="-3971.557617" width="1.098633" height="1.098633"/>
+<image xlink:href="tile64_25.png" preserveAspectRatio="none" x="14071.289062" y="-3972.65625" width="1.098633" height="1.098633"/>
+<image xlink:href="tile64_24.png" preserveAspectRatio="none" x="14071.289062" y="-3973.754883" width="1.098633" height="1.098633"/>
+<image xlink:href="tile64_23.png" preserveAspectRatio="none" x="14071.289062" y="-3974.853516" width="1.098633" height="1.098633"/>
+<image xlink:href="tile78_27.png" preserveAspectRatio="none" x="14086.669922" y="-3970.458984" width="1.098633" height="1.098633"/>
+<image xlink:href="tile78_26.png" preserveAspectRatio="none" x="14086.669922" y="-3971.557617" width="1.098633" height="1.098633"/>
+<image xlink:href="tile79_28.png" preserveAspectRatio="none" x="14087.768555" y="-3969.360352" width="1.098633" height="1.098633"/>
+<image xlink:href="tile79_27.png" preserveAspectRatio="none" x="14087.768555" y="-3970.458984" width="1.098633" height="1.098633"/>
+<image xlink:href="tile79_26.png" preserveAspectRatio="none" x="14087.768555" y="-3971.557617" width="1.098633" height="1.098633"/>
+</g>
+</svg>

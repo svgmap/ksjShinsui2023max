@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+<title>国土数値情報　洪水想定区域　凡例</title>
+<meta charset="utf-8"></meta>
+</head>
+<body>
+<h3>洪水想定区域　想定最大規模</h3>
+出典：
+<ul style="font-size:12px;margin:0;padding:0">
+<li><a href="https://nlftp.mlit.go.jp/ksj/index.html" target="_blank">国土数値情報</a>
+<li><a href="https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A31-v4_0.html" target="_blank">洪水浸水想定区域（1次メッシュ）データ (令和5年度)</a>
+<li> ライセンス： <a href="https://nlftp.mlit.go.jp/ksj/other/agreement_01.html" target="_blank">CC_BY_4.0</a>
+</ul>
+</div>
+凡例：
+<table border="1" cellspacing="0" cellpadding="0" style="font-size:12px">
+  <tr>
+    <td width="40" bgcolor="#F2F2F2">
+      <span align="left">色</span>
+    </td>
+    <td width="201" bgcolor="#F2F2F2">
+      <span align="left">内容</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" bgcolor="#f7f5a9">
+      <span align="center">1</span>
+    </td>
+    <td width="201">
+      <span align="left">0m以上0.5m未満</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" bgcolor="#ffd8c0">
+      <span align="center">2</span>
+    </td>
+    <td width="201">
+      <span align="left">0.5m以上3.0m未満</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" bgcolor="#ffb7b7">
+      <span align="center">3</span>
+    </td>
+    <td width="201">
+      <span align="left">3.0m以上5.0m未満</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" bgcolor="#ff9191">
+      <span align="center">4</span>
+    </td>
+    <td width="201">
+      <span align="left">5.0m以上10.0m未満</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" bgcolor="#f285c9">
+      <span align="center">5</span>
+    </td>
+    <td width="201">
+      <span align="left">10.0m以上20.0m未満</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" bgcolor="#dc7adc">
+      <span align="center">6</span>
+    </td>
+    <td width="201">
+      <span align="left">20.0m以上</span>
+    </td>
+  </tr>
+</table>
+
+対象河川選択
+<ul style="margin:0;padding:0">
+<li><input type="checkbox" id="primaryRadio" onchange="setLayer()" checked/><label for="primaryRadio">洪水予報河川･水位周知河川</label>
+<li><input type="checkbox" id="otherRadio" onchange="setLayer(true)"/><label for="otherRadio">その他の河川</label>
+</ul>
+
+<script>
+function setLayer(isOthers){
+	let ck = document.getElementById("primaryRadio").checked;
+	let ol = svgImage.getElementById("primarySubLayer");
+	if ( isOthers ){
+		ck = document.getElementById("otherRadio").checked;
+		ol = svgImage.getElementById("othersSubLayer");
+	};
+	
+	if ( ck ){
+		ol.setAttribute("visibility","");
+	} else {
+		ol.setAttribute("visibility","hidden");
+	}
+	svgMap.refreshScreen();
+}
+</script>
+
+</body>
+</html>

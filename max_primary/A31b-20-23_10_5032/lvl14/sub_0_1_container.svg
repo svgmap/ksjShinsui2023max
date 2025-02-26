@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="13201.0625 -3399.55 96.48750000000064 65.69583300000019" go:dataArea="13201.0625 -3399.55 96.48750000000064 65.69583300000019" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile0_1.png" preserveAspectRatio="none" x="13198.974609" y="-3399.169922" width="2.197266" height="2.197266"/>
+<image xlink:href="tile1_2.png" preserveAspectRatio="none" x="13201.171875" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile1_1.png" preserveAspectRatio="none" x="13201.171875" y="-3399.169922" width="2.197266" height="2.197266"/>
+<image xlink:href="tile2_3.png" preserveAspectRatio="none" x="13203.369141" y="-3394.775391" width="2.197266" height="2.197266"/>
+<image xlink:href="tile2_2.png" preserveAspectRatio="none" x="13203.369141" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile2_1.png" preserveAspectRatio="none" x="13203.369141" y="-3399.169922" width="2.197266" height="2.197266"/>
+<image xlink:href="tile3_3.png" preserveAspectRatio="none" x="13205.566406" y="-3394.775391" width="2.197266" height="2.197266"/>
+<image xlink:href="tile3_2.png" preserveAspectRatio="none" x="13205.566406" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile3_1.png" preserveAspectRatio="none" x="13205.566406" y="-3399.169922" width="2.197266" height="2.197266"/>
+<image xlink:href="tile4_3.png" preserveAspectRatio="none" x="13207.763672" y="-3394.775391" width="2.197266" height="2.197266"/>
+<image xlink:href="tile4_2.png" preserveAspectRatio="none" x="13207.763672" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile4_1.png" preserveAspectRatio="none" x="13207.763672" y="-3399.169922" width="2.197266" height="2.197266"/>
+<image xlink:href="tile5_2.png" preserveAspectRatio="none" x="13209.960938" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile5_1.png" preserveAspectRatio="none" x="13209.960938" y="-3399.169922" width="2.197266" height="2.197266"/>
+<image xlink:href="tile5_0.png" preserveAspectRatio="none" x="13209.960938" y="-3401.367188" width="2.197266" height="2.197266"/>
+<image xlink:href="tile6_2.png" preserveAspectRatio="none" x="13212.158203" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile8_4.png" preserveAspectRatio="none" x="13216.552734" y="-3392.578125" width="2.197266" height="2.197266"/>
+<image xlink:href="tile8_3.png" preserveAspectRatio="none" x="13216.552734" y="-3394.775391" width="2.197266" height="2.197266"/>
+<image xlink:href="tile9_4.png" preserveAspectRatio="none" x="13218.75" y="-3392.578125" width="2.197266" height="2.197266"/>
+<image xlink:href="tile9_3.png" preserveAspectRatio="none" x="13218.75" y="-3394.775391" width="2.197266" height="2.197266"/>
+<image xlink:href="tile9_2.png" preserveAspectRatio="none" x="13218.75" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile10_4.png" preserveAspectRatio="none" x="13220.947266" y="-3392.578125" width="2.197266" height="2.197266"/>
+<image xlink:href="tile10_3.png" preserveAspectRatio="none" x="13220.947266" y="-3394.775391" width="2.197266" height="2.197266"/>
+<image xlink:href="tile10_2.png" preserveAspectRatio="none" x="13220.947266" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile12_5.png" preserveAspectRatio="none" x="13225.341797" y="-3390.380859" width="2.197266" height="2.197266"/>
+<image xlink:href="tile12_3.png" preserveAspectRatio="none" x="13225.341797" y="-3394.775391" width="2.197266" height="2.197266"/>
+<image xlink:href="tile12_2.png" preserveAspectRatio="none" x="13225.341797" y="-3396.972656" width="2.197266" height="2.197266"/>
+<image xlink:href="tile13_5.png" preserveAspectRatio="none" x="13227.539062" y="-3390.380859" width="2.197266" height="2.197266"/>
+</g>
+</svg>

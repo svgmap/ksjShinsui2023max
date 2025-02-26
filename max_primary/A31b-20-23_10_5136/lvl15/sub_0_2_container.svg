@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="13600.0 -3466.666667 85.83749999999952 56.56246699999983" go:dataArea="13600.0 -3466.666667 85.83749999999952 56.56246699999983" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile0_19.png" preserveAspectRatio="none" x="13599.975586" y="-3446.411133" width="1.098633" height="1.098633"/>
+<image xlink:href="tile0_18.png" preserveAspectRatio="none" x="13599.975586" y="-3447.509766" width="1.098633" height="1.098633"/>
+<image xlink:href="tile1_19.png" preserveAspectRatio="none" x="13601.074219" y="-3446.411133" width="1.098633" height="1.098633"/>
+<image xlink:href="tile1_10.png" preserveAspectRatio="none" x="13601.074219" y="-3456.298828" width="1.098633" height="1.098633"/>
+<image xlink:href="tile1_9.png" preserveAspectRatio="none" x="13601.074219" y="-3457.397461" width="1.098633" height="1.098633"/>
+<image xlink:href="tile2_19.png" preserveAspectRatio="none" x="13602.172852" y="-3446.411133" width="1.098633" height="1.098633"/>
+<image xlink:href="tile2_18.png" preserveAspectRatio="none" x="13602.172852" y="-3447.509766" width="1.098633" height="1.098633"/>
+<image xlink:href="tile2_9.png" preserveAspectRatio="none" x="13602.172852" y="-3457.397461" width="1.098633" height="1.098633"/>
+<image xlink:href="tile2_8.png" preserveAspectRatio="none" x="13602.172852" y="-3458.496094" width="1.098633" height="1.098633"/>
+<image xlink:href="tile3_18.png" preserveAspectRatio="none" x="13603.271484" y="-3447.509766" width="1.098633" height="1.098633"/>
+<image xlink:href="tile3_9.png" preserveAspectRatio="none" x="13603.271484" y="-3457.397461" width="1.098633" height="1.098633"/>
+<image xlink:href="tile3_8.png" preserveAspectRatio="none" x="13603.271484" y="-3458.496094" width="1.098633" height="1.098633"/>
+<image xlink:href="tile4_8.png" preserveAspectRatio="none" x="13604.370117" y="-3458.496094" width="1.098633" height="1.098633"/>
+<image xlink:href="tile4_7.png" preserveAspectRatio="none" x="13604.370117" y="-3459.594727" width="1.098633" height="1.098633"/>
+<image xlink:href="tile5_8.png" preserveAspectRatio="none" x="13605.46875" y="-3458.496094" width="1.098633" height="1.098633"/>
+<image xlink:href="tile5_7.png" preserveAspectRatio="none" x="13605.46875" y="-3459.594727" width="1.098633" height="1.098633"/>
+<image xlink:href="tile5_6.png" preserveAspectRatio="none" x="13605.46875" y="-3460.693359" width="1.098633" height="1.098633"/>
+<image xlink:href="tile6_7.png" preserveAspectRatio="none" x="13606.567383" y="-3459.594727" width="1.098633" height="1.098633"/>
+<image xlink:href="tile6_6.png" preserveAspectRatio="none" x="13606.567383" y="-3460.693359" width="1.098633" height="1.098633"/>
+<image xlink:href="tile6_5.png" preserveAspectRatio="none" x="13606.567383" y="-3461.791992" width="1.098633" height="1.098633"/>
+<image xlink:href="tile7_6.png" preserveAspectRatio="none" x="13607.666016" y="-3460.693359" width="1.098633" height="1.098633"/>
+<image xlink:href="tile7_5.png" preserveAspectRatio="none" x="13607.666016" y="-3461.791992" width="1.098633" height="1.098633"/>
+<image xlink:href="tile8_5.png" preserveAspectRatio="none" x="13608.764648" y="-3461.791992" width="1.098633" height="1.098633"/>
+<image xlink:href="tile9_5.png" preserveAspectRatio="none" x="13609.863281" y="-3461.791992" width="1.098633" height="1.098633"/>
+<image xlink:href="tile10_5.png" preserveAspectRatio="none" x="13610.961914" y="-3461.791992" width="1.098633" height="1.098633"/>
+</g>
+</svg>
