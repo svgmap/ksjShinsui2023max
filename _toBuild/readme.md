@@ -7,7 +7,7 @@
 - [SVGMapTools](https://github.com/svgmap/svgMapTools)を使って各メッシュエリアのコンテンツを生成(ビットイメージのみ)
   - `Shape2ImageSVGMap 5-15 -sumUp 16 -colorKey 1#f7f5a9,2#ffd8c0,3#ffb7b7,4#ff9191,5#f285c9,6#dc7adc [srcJsonPath] 1 #000000 0 0`
   - ヒープを大きくとる必要があった(`-Xmx3000m`ぐらい)
-  - 色分けは、https://disaportal.gsi.go.jp/hazardmapportal/legend.pdf を参考に
+  - 色分け(`-colorKey`)は、https://disaportal.gsi.go.jp/hazardmapportal/legend.pdf を参考に
   - 一括変換は`ps.bat`も参考に
 - [SVGMapTools](https://github.com/svgmap/svgMapTools)を使って各メッシュエリアのコンテンツを結合したコンテンツ(コンテナSVG)を生成
   - `HyperBuilder [各メッシュのcontainer.svgスペース区切り羅列] -o [各メッシュのコンテンツが入っているディレクトリの上の階層/container.svg]`
