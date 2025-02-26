@@ -12,4 +12,4 @@
 - [SVGMapTools](https://github.com/svgmap/svgMapTools)を使って各メッシュエリアのコンテンツを結合したコンテンツ(コンテナSVG)を生成
   - `HyperBuilder [各メッシュのcontainer.svgスペース区切り羅列] -o [各メッシュのコンテンツが入っているディレクトリの上の階層/container.svg]`
   - 各メッシュのcontainer.svgをリストアップするには`ls.bat`も参考に
-- 上記メッシュを結合するコンテナsvgのsvg要素のdata-controllerに凡例やUIを表示するwebAppのリンクを設定
+- 上記メッシュを結合するコンテナsvgのsvg要素の`data-controller`に凡例やUIを表示するwebAppのリンクを設定
