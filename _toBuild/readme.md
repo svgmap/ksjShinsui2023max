@@ -10,6 +10,6 @@
   - 色分けは、https://disaportal.gsi.go.jp/hazardmapportal/legend.pdf を参考に
   - 一括変換は`ps.bat`も参考に
 - [SVGMapTools](https://github.com/svgmap/svgMapTools)を使って各メッシュエリアのコンテンツを結合したコンテンツ(コンテナSVG)を生成
-  - `HyperBuilder [各メッシュのcontainer.svgスペース区切り羅列] -o [各メッシュのコンテンツが入っているディレクトリの上の階層/container.svg]
+  - `HyperBuilder [各メッシュのcontainer.svgスペース区切り羅列] -o [各メッシュのコンテンツが入っているディレクトリの上の階層/container.svg]`
   - 各メッシュのcontainer.svgをリストアップするには`ls.bat`も参考に
 - 上記メッシュを結合するコンテナsvgのsvg要素のdata-controllerに凡例やUIを表示するwebAppのリンクを設定
